@@ -13,7 +13,9 @@ public class Main {
         bagpack.addToBag("dwa2");
 
         System.out.println(bagpack.remofeFromBag());
-    }
+
+        //рлг
+        }
 }
 
 
